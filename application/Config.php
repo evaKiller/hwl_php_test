@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sakura
- * Date: 17/12/15
- * Time: 上午10:36
- */
+
 namespace app;
 
 class Config

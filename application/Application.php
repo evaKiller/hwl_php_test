@@ -1,11 +1,6 @@
 <?php
 namespace app;
-/**
- * Created by PhpStorm.
- * User: Sakura
- * Date: 17/12/5
- * Time: 下午3:12
- */
+
 class Application
 {
     private $_controller;

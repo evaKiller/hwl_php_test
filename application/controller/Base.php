@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sakura
- * Date: 17/12/5
- * Time: 下午3:56
- */
 
 namespace app\controller;
 
